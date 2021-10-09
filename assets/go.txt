@@ -1,0 +1,3 @@
+module github.com/pieterclaerhout/embed-example
+
+go 1.15
